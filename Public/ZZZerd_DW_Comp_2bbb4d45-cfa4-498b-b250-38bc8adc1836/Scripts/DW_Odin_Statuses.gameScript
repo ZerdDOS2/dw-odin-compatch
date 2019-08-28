@@ -1,0 +1,73 @@
+EVENTS
+
+EVENT CharacterSetDWOdinGEOSquirrel
+VARS
+	CHARACTER:_Character
+	LIST<STATUS>:_RemoveList
+	STATUS:_Result
+	INT:_Willpower
+	INT:_Turns
+ON 
+	FetchCharacterApplyStatusData(_Character, OdinGEO_Squirrel)
+ACTIONS
+	IF "c1&c2|!c3"
+		GetVar(_Willpower,_Character,"AS_Willpower")
+		IsLessThen(_Willpower,1.0)
+		GetVar(_Willpower,_Character,"AS_Willpower")
+	THEN
+		Set(_Turns,null)
+		Set(_Result,OdinGEO_Squirrel)
+		ListClear(_RemoveList)
+	ELSE
+		Set(_Result, AS_WILLPOWER_DOWN)
+		Set(_Turns, 0)
+	ENDIF
+	RETURN(_RemoveList,_Result,_Turns)
+	
+EVENT CharacterSetDWOdinGEORabbit
+VARS
+	CHARACTER:_Character
+	LIST<STATUS>:_RemoveList
+	STATUS:_Result
+	INT:_Willpower
+	INT:_Turns
+ON 
+	FetchCharacterApplyStatusData(_Character, OdinGEO_Rabbit)
+ACTIONS
+	IF "c1&c2|!c3"
+		GetVar(_Willpower,_Character,"AS_Willpower")
+		IsLessThen(_Willpower,1.0)
+		GetVar(_Willpower,_Character,"AS_Willpower")
+	THEN
+		Set(_Turns,null)
+		Set(_Result,OdinGEO_Rabbit)
+		ListClear(_RemoveList)
+	ELSE
+		Set(_Result, AS_WILLPOWER_DOWN)
+		Set(_Turns, 0)
+	ENDIF
+	RETURN(_RemoveList,_Result,_Turns)
+
+EVENT CharacterSetDWOdinNECROFrog
+VARS
+	CHARACTER:_Character
+	LIST<STATUS>:_RemoveList
+	STATUS:_Result
+	INT:_Willpower
+	INT:_Turns
+ON 
+	FetchCharacterApplyStatusData(_Character, OdinNECRO_Frog)
+ACTIONS
+	IF "c1&c2|!c3"
+		GetVar(_Willpower,_Character,"AS_Willpower")
+		IsLessThen(_Willpower,1.0)
+		GetVar(_Willpower,_Character,"AS_Willpower")
+	THEN
+		Set(_Turns,null)
+		Set(_Result,OdinNECRO_Frog)
+		ListClear(_RemoveList)
+	ELSE
+		Set(_Result, AS_WILLPOWER_DOWN)
+		Set(_Turns, 0)
+	ENDIF
+	RETURN(_RemoveList,_Result,_Turns)

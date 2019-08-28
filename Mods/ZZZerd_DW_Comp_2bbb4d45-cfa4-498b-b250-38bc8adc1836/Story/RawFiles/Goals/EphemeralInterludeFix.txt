@@ -1,0 +1,26 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//IF
+//	CharacterStatusApplied(_Character, "OdinNECRO_DESECRATE", _Caster)
+//AND
+//	GetVarInteger(_Character, "AS_Willpower", _Willpower)
+//THEN
+//	DB_ZZZ_EphemeralInterlude(_Character, _Willpower, _Caster);
+//	SetVarInteger(_Character, "AS_Willpower", 0);
+//	SetStoryEvent(_Character,"AS_SetWillpowerStatus");
+
+//IF
+//	CharacterStatusRemoved(_Character, "OdinNECRO_DESECRATE", _)
+//AND
+//	DB_ZZZ_EphemeralInterlude(_Character, _Willpower, _Caster)
+//THEN
+//	SetVarInteger(_Character, "AS_Willpower", _Willpower);
+//	SetStoryEvent(_Character,"AS_SetWillpowerStatus");
+//	NOT DB_ZZZ_EphemeralInterlude(_Character, _Willpower, _Caster);
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

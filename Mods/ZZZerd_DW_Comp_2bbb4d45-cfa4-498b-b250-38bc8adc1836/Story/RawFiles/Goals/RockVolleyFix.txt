@@ -1,0 +1,40 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+	CharacterStatusAttempt(_Target, "ZZZ_PETRIFIED", _Source)
+AND
+	DB_RockVolleyTarget(_Target, 2, _Source)
+THEN
+	NOT DB_RockVolleyTarget(_Target, 2, _Source);
+	DB_RockVolleyTarget(_Target, 3, _Source);
+	ApplyStatus(_Target, "PETRIFIED", 6.0, 1, _Source);
+
+IF
+	CharacterStatusAttempt(_Target, "ZZZ_PETRIFIED", _Source)
+AND
+	DB_RockVolleyTarget(_Target, 1, _Source)
+THEN
+	NOT DB_RockVolleyTarget(_Target, 1, _Source);
+	DB_RockVolleyTarget(_Target, 2, _Source);
+
+IF
+	CharacterStatusAttempt(_Target, "ZZZ_PETRIFIED", _Source)
+AND
+	NOT DB_RockVolleyTarget(_Target, _, _Source)
+THEN
+	DB_RockVolleyTarget(_Target, 1, _Source);
+	ProcObjectTimer(_Target, "ZZZ_RockVolleyApplied", 1000);
+
+PROC
+	ProcObjectTimerFinished((CHARACTERGUID)_Target, "ZZZ_RockVolleyApplied")
+AND
+	DB_RockVolleyTarget(_Target, _Number, _Source)
+THEN
+	NOT DB_RockVolleyTarget(_Target, _Number, _Source);
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

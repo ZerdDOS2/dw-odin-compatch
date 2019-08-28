@@ -1,0 +1,17 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+// Those skills are now listed on the gameScript
+//DB_AS_WP_Statuses("OdinGEO_Squirrel");
+//DB_AS_WP_Statuses("OdinGEO_Rabbit");
+KBSECTION
+// Removing from DB just to make sure
+IF
+	GameStarted(_,_)
+THEN
+	NOT DB_AS_WP_Statuses("OdinGEO_Squirrel");
+	NOT DB_AS_WP_Statuses("OdinGEO_Rabbit");
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

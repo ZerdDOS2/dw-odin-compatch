@@ -1,0 +1,1089 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<header version="2" time="0" />
+	<version major="3" minor="6" revision="3" build="1" />
+	<region id="TranslatedStringKeys">
+		<node id="root">
+			<children>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Nefarious winds &lt;font color=&quot;#cfecff&quot;&gt;freeze&lt;/font&gt; the battlefield in a cone, dealing [1] to all characters, instantly killing &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; characters with less than &lt;font color=&quot;#97fbff&quot;&gt;15% Vitality&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Survivors of the blast become &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Hitting a &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; enemy with this skill applies &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; for 2 turns, dealing [2] each turn and reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_Shatter_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Blast steam in a cone, hitting &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt; and &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt;: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#88a25b&quot;&gt;Ally&lt;/font&gt;: Restores &lt;font color=&quot;#97fbff&quot;&gt;Vitality&lt;/font&gt; for each of 3 turns. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemy&lt;/font&gt;: Deals [1] upfront and applies &lt;font color='#4197e2'&gt;Scalded&lt;/font&gt;, reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [3]%&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistance by [4]%&lt;/font&gt;, as well as dealing [2] for each of 2 turns. &lt;br&gt;&lt;br&gt;This skill also hits the caster and leaves behind a &lt;font color=&quot;#4197e2&quot;&gt;steam cloud&lt;/font&gt; for 2 turns." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_SteamLance_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Blow a giant bubble at target location, lasting 2 turns. &lt;br&gt;&lt;br&gt;Whilst in the bubble, &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt; become &lt;font color=&quot;#4197e2&quot;&gt;Wet&lt;/font&gt; and gain &lt;font color=&quot;#dbdbdb&quot;&gt;Deflecting&lt;/font&gt;, providing &lt;font color=&quot;#a8a8a8&quot;&gt;[1]% Physical Resistance&lt;/font&gt; and deflecting all projectiles back to their origin. &lt;br&gt;&lt;br&gt;Whilst in the bubble, &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt; become &lt;font color=&quot;#4197e2&quot;&gt;Dampened&lt;/font&gt;, reducing &lt;font color=&quot;#c80030&quot;&gt;damage dealt by [2]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Dome_OdinWater_PrismaticBubble_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Throw your shield, dealing [2] + [1] (based on current &lt;font color=&quot;#cfecff&quot;&gt;Vitality&lt;/font&gt;) to the target. The shield bounces to an additional target." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_OdinWater_AegisAssault_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Ice forms a defensive barrier around the target, increasing magic resistances and causing nearby characters to become &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#00aa00&quot;&gt;Poisoned&lt;/font&gt;, &lt;font color=&quot;#7d71d9&quot;&gt;Stunned&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;, &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;, and &lt;font color=&quot;#7f3d00&quot;&gt;Petrified&lt;/font&gt; from the target." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_FrostyShell_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Ice forms a defensive barrier around the target, increasing magic resistances and causing nearby characters to become &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#00aa00&quot;&gt;Poisoned&lt;/font&gt;, &lt;font color=&quot;#7d71d9&quot;&gt;Stunned&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;, &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;, and &lt;font color=&quot;#7f3d00&quot;&gt;Petrified&lt;/font&gt; from the target." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinWater_Summon_FrostyShell_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Enchant your target with a mystical barrier for 2 turns, restoring 1 &lt;font color=&quot;#55b82d&quot;&gt;Willpower&lt;/font&gt;. &lt;font color=&quot;#cfecff&quot;&gt;Frozen Bulwark&lt;/font&gt; also provides &lt;font color=&quot;#4197e2&quot;&gt;[1]% Water Resistance&lt;/font&gt; at the cost of &lt;font color=&quot;#fe6e27&quot;&gt;[2]% Fire Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Removes &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Necrofire&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Bleed Fire&lt;/font&gt;, and &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; upon cast. &lt;br&gt;&lt;br&gt;Whilst enchanted, the target is immune from &lt;font color=&quot;#cfecff&quot;&gt;Freezing&lt;/font&gt; and &lt;font color=&quot;#c9aa58&quot;&gt;Slipping&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinWater_FrozenBulwark_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Immune to water damage." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="OdinWater_FROZENBULWARK_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Fully restore target character's &lt;font color=&quot;#55b82d&quot;&gt;Willpower&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;, &lt;font color=&quot;#7d71d9&quot;&gt;Stunned&lt;/font&gt;, &lt;font color=&quot;#7f3d00&quot;&gt;Petrified&lt;/font&gt;, &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;, &lt;font color=&quot;#00aa00&quot;&gt;Poisoned&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Necrofire&lt;/font&gt;, &lt;font color=&quot;#c9aa58&quot;&gt;Terrified&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Silenced&lt;/font&gt;, &lt;font color=&quot;#c80030&quot;&gt;Taunted&lt;/font&gt;, and &lt;font color=&quot;#c9aa58&quot;&gt;Madness&lt;/font&gt; from the target." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_ArcaneStitch_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Instantly restores &lt;font color=&quot;#cfecff&quot;&gt;[1]&lt;/font&gt; to the target, and create a small &lt;font color=&quot;#4197e2&quot;&gt;water surface&lt;/font&gt; beneath them. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;c9aa58&quot;&gt;Diseased&lt;/font&gt;, &lt;font color=&quot;#b823cb&quot;&gt;Decaying&lt;/font&gt;, &lt;font color=&quot;#00aa00&quot;&gt;Poisoned&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;Bleeding&lt;/font&gt;. &lt;br&gt;&lt;br&gt;This skill may be used on &lt;font color=&quot;#aa3938&quot;&gt;Undead enemies&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_CleanseWounds_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Initiate a terrible thirst in a target &lt;font color=&quot;#88a25b&quot;&gt;ally&lt;/font&gt;, setting &lt;font color=&quot;#4197e2&quot;&gt;Vampiric Hunger&lt;/font&gt; for 2 turns, adding &lt;font color=&quot;#b823cb&quot;&gt;50% Life Steal&lt;/font&gt; for its duration. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#b823cb&quot;&gt;Life Steal&lt;/font&gt; heals the user based on any &lt;font color=&quot;#c80030&quot;&gt;non-Piercing&lt;/font&gt; damage they deal to &lt;font color=&quot;#c80030&quot;&gt;Vitality&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_VampiricHunger_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deep from the depths, the &lt;font color=&quot;#4197e2&quot;&gt;Kraken&lt;/font&gt; emerges at target location, dealing [1] and applying &lt;font color=&quot;#4197e2&quot;&gt;Drowning&lt;/font&gt; for 2 turns, dealing [2] each turn. &lt;br&gt;&lt;br&gt;Enemies are also &lt;font color=#a8a8a8&quot;&gt;Knocked-Down&lt;/font&gt; for 1 turn." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinWater_ReleaseTheKraken_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Restore [1] to the target on-cast and at the start of the next 2 turns. Cleanses &lt;font color=&quot;#65c900&quot;&gt;Poisoned&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;Bleeding&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Additionally, the target is also healed for &lt;font color=#97fbff&gt;10% max Vitality&lt;/font&gt; on-cast." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Restoration_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] and &lt;font color=&quot;#cfecff&quot;&gt;Chill&lt;/font&gt; characters in the target area. &lt;br&gt;&lt;br&gt;This skill &lt;font color=&quot;#cfecff&quot;&gt;freezes&lt;/font&gt; any &lt;font color=&quot;#c80030&quot;&gt;blood&lt;/font&gt; and &lt;font color=&quot;#4197e2&quot;&gt;water surfaces&lt;/font&gt; in the area. &lt;br&gt;&lt;br&gt;Hitting a &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; enemy with this skill applies &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; for 2 turns, dealing [2] each turn and reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_WinterBlast_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Place target &lt;font color=&quot;#88a25b&quot;&gt;ally&lt;/font&gt; or an &lt;font color=&quot;#aa3938&quot;&gt;enemy&lt;/font&gt; into an &lt;font color=&quot;#cfecff&quot;&gt;icy stasis&lt;/font&gt;, cleansing ailments and preventing all damage dealt for 1 turn: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#88a25b&quot;&gt;Ally&lt;/font&gt;: Restores [1] upon thawing. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemy&lt;/font&gt;: Deals [2] upon thawing. Applies &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; for 2 turns, dealing [3] each turn and reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [4]%&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#cfecff&quot;&gt;Chills&lt;/font&gt; characters upon thawing." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_CryogenicStasis_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [4] + [1] (based on current &lt;font color=&quot;#cfecff&quot;&gt;Vitality&lt;/font&gt;) and &lt;font color=&quot;#cfecff&quot;&gt;Chilling&lt;/font&gt; nearby &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Creates an &lt;font color=&quot;#cfecff&quot;&gt;ice surface&lt;/font&gt; beneath hit &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Hitting a &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; enemy with this skill applies &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; for 2 turns, dealing [2] each turn and reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinWater_ArcticRoar_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Bestow a mystical enchantment to all &lt;font color='#88a25b'&gt;Non-Undead allies&lt;/font&gt; within 7m, regenerating [1] for 3 turns. &lt;font color='#aa3938'&gt;Undead and Decaying enemies&lt;/font&gt; receive damage equal to the healing provided.&lt;br&gt;&lt;br&gt;The enchantment also provides &lt;font color=&quot;#c9aa58&quot;&gt;Slipping Immunity&lt;/font&gt; for its duration." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_FrostAura_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Draw upon the lifeblood of the planet to gain an enchantment that provides &lt;font color=&quot;#cfecff&quot;&gt;[1]% max. Vitality&lt;/font&gt; and restores 1 Willpower. &lt;br&gt;&lt;br&gt;Additionally, you and &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt; within [4]m are healed for [3] for each of 3 turns." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_HealingTears_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Set off a chain reaction which causes &lt;font color=&quot;#cfecff&quot;&gt;ice surfaces&lt;/font&gt; to explode into &lt;font color=&quot;#4197e2&quot;&gt;water&lt;/font&gt;, dealing &lt;font color=&quot;#4197e2&quot;&gt;significant water damage&lt;/font&gt; and applying &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; to all characters." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_IceBreaker_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Consume &lt;font color=&quot;#4197e2&quot;&gt;water&lt;/font&gt; and &lt;font color=&quot;#cfecff&quot;&gt;frozen surfaces&lt;/font&gt; around you, restoring &lt;font color=&quot;#cfecff&quot;&gt;Vitality&lt;/font&gt; based on the surface area consumed this way. &lt;br&gt;&lt;br&gt;Grants the caster &lt;font color=&quot;#188ede&quot;&gt;Magic Shell&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Necrofire&lt;/font&gt;, and &lt;font color=&quot;#fe6e27&quot;&gt;Bleed Fire&lt;/font&gt; on-cast." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_Cryotherapy_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Each &lt;font color=&quot;#88a25b&quot;&gt;ally&lt;/font&gt; consumes &lt;font color=&quot;#4197e2&quot;&gt;water&lt;/font&gt; and &lt;font color=&quot;#cfecff&quot;&gt;frozen surfaces&lt;/font&gt; around them, restoring &lt;font color=&quot;#cfecff&quot;&gt;Vitality&lt;/font&gt; based on the surface area consumed this way. &lt;br&gt;&lt;br&gt;Grants each ally &lt;font color=&quot;#188ede&quot;&gt;Magic Shell&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Necrofire&lt;/font&gt;, and &lt;font color=&quot;#fe6e27&quot;&gt;Bleed Fire&lt;/font&gt; on-cast." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_MassCryotherapy_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Gain &lt;font color='#cfecff'&gt;Ice Barrier&lt;/font&gt;, providing &lt;font color=&quot;#cfecff&quot;&gt;[1]% Max Vitality&lt;/font&gt; and an additional &lt;font color=&quot;#cfecff&quot;&gt;[1]% Max Vitality&lt;/font&gt; for each nearby &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; who is either &lt;font color='#cfecff'&gt;Chilled&lt;/font&gt;, &lt;font color='#cfecff'&gt;Frozen&lt;/font&gt;, or affected by &lt;font color='#cfecff'&gt;Hypothermia&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Whilst guarded by &lt;font color='#cfecff'&gt;Ice Barrier&lt;/font&gt;, you gain &lt;font color=&quot;#4197e2&quot;&gt;[2]% Water Resistance&lt;/font&gt; and any attacking characters become &lt;font color='#cfecff'&gt;Chilled&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinWater_FuryOfTheNorth_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Command spheres of restorative waters to heal each of your &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt; and &lt;font color=&quot;#aa3938&quot;&gt;Undead enemies&lt;/font&gt; for &lt;font color=&quot;#cfecff&quot;&gt;[1]&lt;/font&gt;, and create a small &lt;font color=&quot;#4197e2&quot;&gt;water surface&lt;/font&gt; beneath them. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;c9aa58&quot;&gt;Diseased&lt;/font&gt;, &lt;font color=&quot;#b823cb&quot;&gt;Decaying&lt;/font&gt;, &lt;font color=&quot;#00aa00&quot;&gt;Poisoned&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;Bleeding&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_MassCleanseWounds_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Gain &lt;font color=&quot;#cfecff&quot;&gt;Icy Veins&lt;/font&gt;, allowing you to apply &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; regardless of whether your targets are &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#cfecff&quot;&gt;Icy Veins&lt;/font&gt; reduces your &lt;font color=&quot;#a8a8a8&quot;&gt;Physical Resistance by [1]%&lt;/font&gt; and &lt;font color=&quot;#c80030&quot;&gt;Movement Speed by [2]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinWater_IcyVeins_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Northern winds &lt;font color=&quot;#cfecff&quot;&gt;Freeze&lt;/font&gt; susceptible surfaces around you, dealing [1] and &lt;font color=&quot;#cfecff&quot;&gt;Chilling&lt;/font&gt; &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;.&lt;br&gt;&lt;br&gt;Hitting a &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; enemy with this skill applies &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; for 2 turns, dealing [2] each turn and reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_GlobalCooling_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Allows you to apply &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; regardless of whether your targets are &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="OdinWater_ICYVEINS_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Push &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; away from you with a forceful torrent, dealing [1] and applying &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Setting &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; on an enemy who already has &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; will set &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinWater_Rebuke_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Water spouts from below, dealing [1] and applying &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; to all nearby characters.&lt;br&gt;&lt;br&gt;Creates a &lt;font color='#4197e2'&gt;water surface&lt;/font&gt; and sets &lt;font color='#4197e2'&gt;Wet&lt;/font&gt; on characters around you. &lt;br&gt;&lt;br&gt;Setting &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; on an enemy who already has &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; will set &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinWater_Waterspout_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Initiate a terrible thirst on all nearby &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt;, setting &lt;font color=&quot;#4197e2&quot;&gt;Vampiric Hunger&lt;/font&gt; for 2 turns, adding &lt;font color=&quot;#b823cb&quot;&gt;50% Life Steal&lt;/font&gt; for its duration. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#b823cb&quot;&gt;Life Steal&lt;/font&gt; heals the user based on any &lt;font color=&quot;#c80030&quot;&gt;non-Piercing&lt;/font&gt; damage they deal to &lt;font color=&quot;#c80030&quot;&gt;Vitality&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_VampiricHungerAura_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="The oceans rhythm courses through you, granting &lt;font color=&quot;#4197e2&quot;&gt;Low Tide&lt;/font&gt; for 1 turn, granting &lt;font color=&quot;#4197e2&quot;&gt;[1] Wisdom&lt;/font&gt; and &lt;font color=&quot;#4197e2&quot;&gt;[2]% Water Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Upon expiry, &lt;font color=&quot;#4197e2&quot;&gt;Low Tide&lt;/font&gt; transforms into &lt;font color=&quot;#4197e2&quot;&gt;High Tide&lt;/font&gt; for 1 turn, granting &lt;font color=&quot;#4197e2&quot;&gt;[3] Wisdom&lt;/font&gt; and &lt;font color=&quot;#4197e2&quot;&gt;[4]% Water Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Upon expiry, &lt;font color=&quot;#4197e2&quot;&gt;High Tide&lt;/font&gt; transforms back into &lt;font color=&quot;#4197e2&quot;&gt;Low Tide&lt;/font&gt; for 1 turn. This instance does not transform upon expiry." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinWater_RideTheTide_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Command a stream of water to bounce between up to 6 &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt; or &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt;: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#88a25b&quot;&gt;Ally&lt;/font&gt;: Restores [1]. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemy&lt;/font&gt;: Deals [2]. &lt;br&gt;&lt;br&gt;Leaves a &lt;font color=&quot;#4197e2&quot;&gt;water surface&lt;/font&gt; and sets &lt;font color=&quot;#4197e2&quot;&gt;Wet&lt;/font&gt; upon hitting a character." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_ChainHeal_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="To-and-Flow" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_ChainHeal_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Shoot an icy projectiles at each of 3 targets, dealing [1]. &lt;br&gt;&lt;br&gt;Each icicle &lt;font color=&quot;#cfecff&quot;&gt;Chills&lt;/font&gt; targets and creates a small &lt;font color=&quot;#cfecff&quot;&gt;ice surface&lt;/font&gt; upon impact. &lt;br&gt;&lt;br&gt;Hitting a &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; enemy with this skill applies &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; for 2 turns, dealing [2] each turn and reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_IceFan_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Target character consumes &lt;font color=&quot;#c80030&quot;&gt;Blood surfaces&lt;/font&gt; around them, restoring &lt;font color=&quot;#97fbff&quot;&gt;Vitality&lt;/font&gt; based on the surface consumed this way." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_BloodBubble_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Target &lt;font color='#88a25b'&gt;ally&lt;/font&gt; sacrifices &lt;font color='#B823CB'&gt;10%&lt;/font&gt; of their &lt;font color='#B823CB'&gt;current Vitality&lt;/font&gt; to gain a damage bonus equal to the percentage of their &lt;font color='#C80030'&gt;missing Vitality&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_DeathWish_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Target character gains &lt;font color='#B823CB'&gt;Death Resist&lt;/font&gt;, preventing their &lt;font color=&quot;#97fbff&quot;&gt;Vitality&lt;/font&gt; falling below &lt;font color=&quot;#97fbff&quot;&gt;1HP&lt;/font&gt;. &lt;br&gt;&lt;br&gt;If the target is a &lt;font color='#7F25D4'&gt;Summon&lt;/font&gt;, their lifetime is extended for the duration of &lt;font color='#B823CB'&gt;Death Resist&lt;/font&gt;. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;Certain environmental damage ignores &lt;font color='#B823CB'&gt;Death Resist&lt;/font&gt;.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_DeathsDoor_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Target and &lt;font color=&quot;#B823CB&quot;&gt;Decay&lt;/font&gt; a nearby character, dealing [1]. &lt;br&gt;&lt;br&gt;Characters with &lt;font color=&quot;#B823CB&quot;&gt;Decaying&lt;/font&gt; take &lt;font color='#a8a8a8'&gt;physical damage&lt;/font&gt; from healing spells and potions." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_DecayingTouch_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Undead hands arise from &lt;font color=&quot;#c80030&quot;&gt;Blood&lt;/font&gt; and &lt;font color=&quot;#c80030&quot;&gt;Blood Cloud surfaces&lt;/font&gt;, dealing [1] to &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Targets also become &lt;font color='#c80030'&gt;Crippled&lt;/font&gt;, preventing movement." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_GraspOfTheStarved_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] and &lt;font color=&quot;#c9aa58&quot;&gt;Infect&lt;/font&gt; the target, reducing &lt;font color='#c80030'&gt;Constitution by [2]&lt;/font&gt; and &lt;font color='#c80030'&gt;Damage by [3]%&lt;/font&gt;. &lt;br&gt;&lt;br&gt;The &lt;font color=&quot;#c9aa58&quot;&gt;Infected&lt;/font&gt; applies &lt;font color=&quot;#c9aa58&quot;&gt;Diseased&lt;/font&gt; to their &lt;font color='#88a25b'&gt;allied&lt;/font&gt;  characters within 5m, applying the same debuffs." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Infect_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Suffer [1] to resurrect target &lt;font color='#88a25b'&gt;ally&lt;/font&gt; to &lt;font color=&quot;#97fbff&quot;&gt;100% Vitality&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Teleportation_LastRites_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Unleash a swarm of mosquitos unto the target, dealing [1] and setting &lt;font color='#c80030'&gt;Bleeding&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Restores &lt;font color=&quot;#97fbff&quot;&gt;Vitality&lt;/font&gt; equal to &lt;font color=&quot;#97fbff&quot;&gt;[2]%&lt;/font&gt; of the damage dealt." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_MosquitoSwarm_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Sacrifice &lt;font color='#B823CB'&gt;5% current Vitality&lt;/font&gt; ([1] &lt;font color='#C80030'&gt;Vitality&lt;/font&gt;) to cast this spell.&lt;br&gt;&lt;br&gt;Call a terrible downpour, creating &lt;font color=&quot;#c80030&quot;&gt;Blood surfaces&lt;/font&gt; which spread and douse &lt;font color=&quot;#fe6e27&quot;&gt;flames&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Sets &lt;font color='#c80030'&gt;Bleeding&lt;/font&gt; and &lt;font color=&quot;#B823CB&quot;&gt;Decaying&lt;/font&gt; on all characters." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Rain_Blood_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Tether to target character, causing them to receive any damage you receive. &lt;br&gt;&lt;br&gt;This damage ignores any &lt;font color='#c80030'&gt;resistances&lt;/font&gt; the target has." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_ShacklesOfPain_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Destroy [1] on all &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; in a cone and &lt;font color=&quot;#c9aa58&quot;&gt;Transfix&lt;/font&gt; them, preventing them from taking action. &lt;br&gt;&lt;br&gt;Upon expiry, the target will gain immunity to &lt;font color=&quot;#c9aa58&quot;&gt;Terrified&lt;/font&gt; and &lt;font color=&quot;#c9aa58&quot;&gt;Transfixed&lt;/font&gt; for 1 turn.&lt;br&gt;&lt;br&gt;&lt;font color='#b841f4'&gt;Hex damage&lt;/font&gt;: Deals [2]. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;If the target has no &lt;font color='#188ede'&gt;Magic Armour&lt;/font&gt; or if this skill destroys it, this skill deals additional &lt;font color='#b841f4'&gt;Hex damage&lt;/font&gt;. This damage scales with &lt;font color='#40B606'&gt;Intelligence&lt;/font&gt; and levels.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_SilencingStare_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Ophidian Glare" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_SilencingStare_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Gain &lt;font color='#c80030'&gt;[1] Constitution&lt;/font&gt; and an additional &lt;font color='#c80030'&gt;[1] Constitution&lt;/font&gt; for each &lt;font color='#797980'&gt;corpse&lt;/font&gt; in the area around you." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_BoneCage_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deals [1] and apply &lt;font color='#00aa00'&gt;Acid&lt;/font&gt; and &lt;font color='#c80030'&gt;Atrophy&lt;/font&gt; to characters in a cone. &lt;br&gt;&lt;br&gt;Also creates a &lt;font color='#65C900'&gt;Cursed Poison surface&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_CorrosiveSpray_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deals [1] and apply &lt;font color='#00aa00'&gt;Acid&lt;/font&gt; to target character." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_CorrosiveTouch_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Pummel the ground, causing a quake to deal [1] to enemies and create &lt;font color='#676464'&gt;Oil surfaces&lt;/font&gt; in the area. &lt;br&gt;&lt;br&gt;Enemies are &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Quake_Earthquake_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Rocks form a defensive barrier around the target, providing &lt;font color=&quot;#a8a8a8&quot;&gt;[1]% Physical Resistance&lt;/font&gt; and preventing them from being teleported. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color='#00aa00'&gt;Poisoned&lt;/font&gt;, &lt;font color='#c80030'&gt;Bleeding&lt;/font&gt;, &lt;font color='#fe6e27'&gt;Burning&lt;/font&gt;, &lt;font color='#00aa00'&gt;Acid&lt;/font&gt;, and &lt;font color=&quot;#b823cb&quot;&gt;Decaying&lt;/font&gt; from the target." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Fortify_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Each ally consumes &lt;font color='#676464'&gt;Oil surfaces&lt;/font&gt; around them, restoring &lt;font color='#97fbff';&gt;Vitality&lt;/font&gt; based on the surface consumed this way. &lt;br&gt;&lt;br&gt;Each ally becomes &lt;font color='#AA895B'&gt;Fortified&lt;/font&gt; for 1 turn, granting &lt;font color=&quot;#a8a8a8&quot;&gt;[1]% Physical Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color='#c7a758'&gt;Slowed&lt;/font&gt;, &lt;font color='#676464'&gt;Oiled&lt;/font&gt;, &lt;font color='#7d71d9'&gt;Shocked&lt;/font&gt;, and &lt;font color='#cfecff'&gt;Chilled&lt;/font&gt; on-cast." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_MassOilyCarapace_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Bestow an earthern enchantment to all allies within 7m, granting &lt;font color=#97fbff&gt;[1]% max. Vitality&lt;/font&gt; at the cost of &lt;font color=&quot;#fe6e27&quot;&gt;[2]% Fire Resistance&lt;/font&gt; for 3 turns. &lt;br&gt;&lt;br&gt;The enchantment also provides &lt;font color=&quot;#7f3d00&quot;&gt;Slowed Immunity&lt;/font&gt; for its duration." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_MendMetal_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Mass Overgrowth" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_MendMetal_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Mass Overgrowth" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_MendMetal_Summon_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Bestow an earthern enchantment to all allies within 7m, granting &lt;font color=#97fbff&gt;[1]% max. Vitality&lt;/font&gt; at the cost of &lt;font color=&quot;#fe6e27&quot;&gt;[2]% Fire Resistance&lt;/font&gt; for 3 turns. &lt;br&gt;&lt;br&gt;The enchantment also provides &lt;font color=&quot;#7f3d00&quot;&gt;Slowed Immunity&lt;/font&gt; for its duration." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_MendMetal_Summon_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="A large boulder crashes down, dealing [1] and applying &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; to all characters. &lt;br&gt;&lt;br&gt;Removes &lt;font color='#C7A758'&gt;Petrified&lt;/font&gt;, dealing an additional [2] if it is removed this way. &lt;br&gt;&lt;br&gt;Setting &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; on an enemy who already has &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; will set &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="ProjectileStrike_OdinGEO_BoulderCrash_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Encase your target in a stony barrier for 2 turns, providing &lt;font color=&quot;#a8a8a8&quot;&gt;[1]% Physical Resistance&lt;/font&gt; and &lt;font color=#97fbff&gt;[4]% max. Vitality&lt;/font&gt;. &lt;font color=&quot;#C7A758&quot;&gt;Granite Plating&lt;/font&gt; also provides &lt;font color=&quot;#7f3d00&quot;&gt;[2]% Earth Resistance&lt;/font&gt; at the cost of &lt;font color=&quot;#4197e2&quot;&gt;[3]% Water Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Removes &lt;font color=&quot;#7d71d9&quot;&gt;Shocked&lt;/font&gt;, &lt;font color=&quot;#7d71d9&quot;&gt;Stunned&lt;/font&gt;, and &lt;font color=&quot;#7d71d9&quot;&gt;Dazed&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Whilst encased, the target is immune to &lt;font color=&quot;#c7a758&quot;&gt;Slowed&lt;/font&gt; and &lt;font color=&quot;#C7A758&quot;&gt;Petrified&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinGEO_GranitePlating_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Physical Resistance and Maximum Vitality increased." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="OdinGEO_GranitePlating_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Restore &lt;font color='#97fbff'&gt;20%&lt;/font&gt; of the target's &lt;font color=#97fbff&gt;max. Vitality&lt;/font&gt;. Also restores 1 &lt;font color=&quot;#55b82d&quot;&gt;Willpower&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color='#c80030'&gt;Crippled&lt;/font&gt;, &lt;font color='#dbdbdb'&gt;Blinded&lt;/font&gt;, &lt;font color='#c80030'&gt;Bleeding&lt;/font&gt;, &lt;font color='#c80030'&gt;Taunted&lt;/font&gt;, &lt;font color='#c9aa58'&gt;Diseased&lt;/font&gt;, &lt;font color='#b823cb'&gt;Decaying&lt;/font&gt;, and &lt;font color='#c80030'&gt;Atrophy&lt;/font&gt; from the target." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinGEO_NaturalRemedy_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Unleash judgement unto &lt;font color='#88a25b'&gt;allies&lt;/font&gt; and &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; around you. &lt;br&gt;&lt;br&gt;&lt;font color='#88a25b'&gt;Ally&lt;/font&gt;: Gains &lt;font color='#AA895B'&gt;Ironbark&lt;/font&gt; for 3 turns, providing &lt;font color='#7f3d00'&gt;[2]% Earth Resistance&lt;/font&gt;, &lt;font color=&quot;#a8a8a8&quot;&gt;[3]% Physical Resistance&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;[1]% Piercing Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Whilst affected by &lt;font color='#7f3d00'&gt;Ironbark&lt;/font&gt;, characters become immune to &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt; and &lt;font color='#c80030'&gt;Bleeding&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color='#aa3938'&gt;Enemy&lt;/font&gt;: Transform into a harmless &lt;font color='#FFFFFF'&gt;woodland critter&lt;/font&gt; for 1 turn." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinGEO_NaturesDecree_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="&lt;font color='#F7BA14'&gt;Shapeshift&lt;/font&gt; into a &lt;font color='#C7A758'&gt;Clay Sentinel&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Whilst in this form, you gain an additional: &lt;br&gt; • &lt;font color=&quot;#cfecff&quot;&gt;[1]% Vitality&lt;/font&gt; &lt;br&gt; • &lt;font color='#7f3d00'&gt;[3]% Earth Resistance&lt;/font&gt; &lt;br&gt; • &lt;font color=&quot;#a8a8a8&quot;&gt;[4]% Physical Resistance&lt;/font&gt; &lt;br&gt; • &lt;font color='#c80030'&gt;[2]% Piercing Resistance&lt;/font&gt; &lt;br&gt; • &lt;font color=&quot;#c80030&quot;&gt;[5]% Movement Speed&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinGEO_Shapeshift_ClaySentinel_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deals [1] to and &lt;font color='#7F00FF'&gt;Entangle&lt;/font&gt; all nearby &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;, preventing movement and dealing [2] each turn. &lt;br&gt;&lt;br&gt;Gain &lt;font color='#AA895B'&gt;Ironbark&lt;/font&gt;, providing &lt;font color='#7f3d00'&gt;[4]% Earth Resistance&lt;/font&gt;, &lt;font color=&quot;#a8a8a8&quot;&gt;[5]% Physical Resistance&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;[3]% Piercing Resistance&lt;/font&gt;. Also grants immunity to &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt; and &lt;font color='#c80030'&gt;Bleeding&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinGEO_SongOfTheDryads_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Spray oil in a cone, dealing [1] and creating an &lt;font color='#676464'&gt;Oil surface&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Characters become &lt;font color='#C7A758'&gt;Petrified&lt;/font&gt;, preventing them from taking action, and &lt;font color='#676464'&gt;Oiled&lt;/font&gt;, reducing &lt;font color='#7f3d00'&gt;Earth Resistance by [2]%&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_OdinGEO_TectonicSpray_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Consume &lt;font color='#676464'&gt;Oil surfaces&lt;/font&gt; around you, restoring &lt;font color=&quot;#97fbff&quot;&gt;Vitality&lt;/font&gt; based on the surface consumed this way. &lt;br&gt;&lt;br&gt;Grants the user &lt;font color='#AA895B'&gt;Fortified&lt;/font&gt;, granting &lt;font color=&quot;#a8a8a8&quot;&gt;[1]% Physical Resistance&lt;/font&gt; for 1 turn. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color='#c7a758'&gt;Slowed&lt;/font&gt;, &lt;font color='#676464'&gt;Oiled&lt;/font&gt;, &lt;font color='#7d71d9'&gt;Shocked&lt;/font&gt;, and &lt;font color='#cfecff'&gt;Chilled&lt;/font&gt; on-cast." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OilyCarapace_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Shatter a portion of your armour, dealing [1] on-cast and applying &lt;font color='#c80030'&gt;Bleeding&lt;/font&gt; to yourself and nearby enemies. &lt;br&gt;&lt;br&gt;This damage is based on your maximum &lt;font color=&quot;#97fbff&quot;&gt;Vitality&lt;/font&gt;.&lt;br&gt;&lt;br&gt;After casting, you get a &lt;font color=&quot;#c80030&quot;&gt;[2]% Physical Resistance&lt;/font&gt; penalty for 2 turns." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_ReactiveArmor_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Rock spikes impale all characters, dealing [1] and creating an &lt;font color='#676464'&gt;Oil surface&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Characters become &lt;font color='#c80030'&gt;Crippled&lt;/font&gt;, preventing movement." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_RockSpikes_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Frenzied vines deal [1] to each character in the area. &lt;br&gt;&lt;br&gt;Characters become &lt;font color='#7F00FF'&gt;Entangled&lt;/font&gt;, preventing movement and dealing [2] each turn." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_WormTremor_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Vine Grasp" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_WormTremor_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Launch 5 toxic spores, each dealing [1], creating a &lt;font color=&quot;#65C900&quot;&gt;Cursed Poison cloud&lt;/font&gt;, and applying &lt;font color='#65C900'&gt;Spore&lt;/font&gt;.  &lt;br&gt;&lt;br&gt;&lt;font color='#65C900'&gt;Spore&lt;/font&gt; reduces &lt;font color='#65C900'&gt;Poison Resistance by [2]%&lt;/font&gt; and &lt;font color='#7f3d00'&gt;Earth Resistance by [3]%&lt;/font&gt;. Also reduces &lt;font color=&quot;#c80030&quot;&gt;Movement Speed by [4]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_AcidSpores_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Create an &lt;font color='#676464'&gt;Oil surface&lt;/font&gt; at target location. &lt;br&gt;&lt;br&gt;Characters also become &lt;font color='#676464'&gt;Oiled&lt;/font&gt;, reducing &lt;font color='#7f3d00'&gt;Earth Resistance by [2]%&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Condense_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Midnight Oil" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Condense_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Draw an impassable wall of &lt;font color=&quot;#65C900&quot;&gt;vines&lt;/font&gt;, spanning up to [1] and lasting 2 turns. This wall creates a &lt;font color=&quot;#65C900&quot;&gt;Poison cloud&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Wall_LivingWall_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Noxous fumes burst around the caster, dealing [1] and creating &lt;font color='#65C900'&gt;Poison clouds&lt;/font&gt; in the area. &lt;br&gt;&lt;br&gt;The caster also receives &lt;font color='#7f3d00'&gt;Earth Immunity&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_PoisonWave_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Oil-filled rocks crash into all nearby enemies, each dealing [1] and creating an &lt;font color='#676464'&gt;Oil surface&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Characters also become &lt;font color='#676464'&gt;Oiled&lt;/font&gt;, reducing &lt;font color='#7f3d00'&gt;Earth Resistance by [2]%&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistance by [3]%&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_PyroclasticEruption_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Absorb all &lt;font color=&quot;#65C900&quot;&gt;Poison surfaces&lt;/font&gt; around you, restoring &lt;font color='#cfecff'&gt;Vitality&lt;/font&gt; (regardless of being &lt;font color='#88a25b'&gt;Undead&lt;/font&gt;) based on the surface area consumed this way. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#65C900&quot;&gt;Siphon Poison&lt;/font&gt; also adds [1] to your weapon attacks." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_SiphonPoison_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Throw dust at target location, dealing [1] and &lt;font color='#dbdbdb'&gt;Blinding&lt;/font&gt; all characters. &lt;br&gt;&lt;br&gt;The dust also clears all &lt;font color='#dbdbdb'&gt;Surfaces&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_ThrowDust_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Coat your weapon with a deadly concoction, adding [1] to your weapon attacks. &lt;br&gt;&lt;br&gt;Basic attacks will &lt;font color='#65C900'&gt;Spore&lt;/font&gt; characters for 1 turn if they are not already &lt;font color='#65C900'&gt;Spored&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_VenomCoating_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Open a wormhole at target location, transporting items into your inventory. &lt;br&gt;&lt;br&gt;&lt;font color='#aa3938'&gt;Enemies&lt;/font&gt; become affected by &lt;font color='#7d71d9'&gt;Gravity&lt;/font&gt;, preventing them from moving." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Apportation_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Graviportation" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Apportation_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deals [1] to all nearby &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. Additionally, you gain &lt;font color='#7d71d9'&gt;Blinding Radiance&lt;/font&gt;, &lt;font color='#dbdbdb'&gt;Blinding&lt;/font&gt; &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; within 5m." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_BlindingRadiance_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Blast a violent wind, cleansing all &lt;font color='#dbdbdb'&gt;Surfaces&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Those hit by the blast are dealt [1] and are executed if they are &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt; and have less than &lt;font color=&quot;#97fbff&quot;&gt;15% Vitality&lt;/font&gt;.&lt;br&gt;&lt;br&gt;Survivors of the blast &lt;font color='#dbdbdb'&gt;lose their footing&lt;/font&gt; and begin &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Setting &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; on an &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; who already has &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; will set &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_OdinAERO_Aeroblast_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Blast wind in a cone, &lt;font color='#797980'&gt;Suffocating&lt;/font&gt; and dealing [1] to enemies. Also applies &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; to &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Setting &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; on an &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; who already has &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; will set &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_OdinAERO_TurbulantWind_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Blast wind in a cone, &lt;font color='#797980'&gt;Suffocating&lt;/font&gt; and dealing [1] to enemies. Also applies &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; to &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Setting &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; on an &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; who already has &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; will set &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_OdinAERO_Summon_TurbulantWind_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Create an updraft at target location, dealing [1] and applying &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; to all &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; in the area. &lt;br&gt;&lt;br&gt;Setting &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; on an &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; who already has &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; will set &lt;font color='#dbdbdb'&gt;Knocked Down&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinAERO_Updraft_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Let out a volatile shout, dealing [1] and creating &lt;font color='#73f6ff'&gt;Electrified Steam Clouds&lt;/font&gt; around you and nearby &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Also applies &lt;font color='#40b606'&gt;Breathing Bubble&lt;/font&gt;, causing you to ignore all &lt;font color='#dbdbdb'&gt;Cloud Surfaces&lt;/font&gt; for 3 turns. Additionally, you also gain &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;, &lt;font color='#7d71d9'&gt;Shocked&lt;/font&gt;, &lt;font color='#7d71d9'&gt;Stunned&lt;/font&gt;, and &lt;font color=&quot;#cfecff&quot;&gt;Silenced&lt;/font&gt; immunities for its duration." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_BreathingBubble_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Stormy Bellow" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_BreathingBubble_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Shoot a bolt of lightning, forking up to [4] times in an [5] radius, dealing [1] to each &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; hit. &lt;br&gt;&lt;br&gt;&lt;font color='#b87333'&gt;Conductive&lt;/font&gt;:&lt;br&gt;Hitting a &lt;font color='#b87333'&gt;Conductive&lt;/font&gt; &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; causes this skill to deal [2] to &lt;font color='#aa3938'&gt;non-Conductive enemies&lt;/font&gt; within [3]." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_ChainLightning_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="An electrical bolt falls from the sky, dealing [1] all characters in the area. This skill &lt;font color='#7d71d9'&gt;electrifies surfaces&lt;/font&gt; and sets &lt;font color='#7d71d9'&gt;Shocked&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color='#b87333'&gt;Conductive&lt;/font&gt;:&lt;br&gt;Hitting a &lt;font color='#b87333'&gt;Conductive&lt;/font&gt; &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; causes this skill to deal [2] to &lt;font color='#aa3938'&gt;non-Conductive enemies&lt;/font&gt; within [3]. &lt;br&gt;&lt;br&gt;&lt;font color='#aa3938'&gt;Enemies&lt;/font&gt; hit by the &lt;font color='#b87333'&gt;Conductive&lt;/font&gt; effect of this skill are also &lt;font color='#7d71d9'&gt;Dazed&lt;/font&gt;, reducing &lt;font color='#7d71d9'&gt;Air Resistance by [4]%&lt;/font&gt; and &lt;font color='#c80030'&gt;increasing AP costs by [5]&lt;/font&gt; for 1 turn." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="ProjectileStrike_DazingBolt_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Gain &lt;font color='#7d71d9'&gt;Air Immunity&lt;/font&gt; for 1 turn before detonating a sphere of electrical energy, dealing [1] and &lt;font color='#7d71d9'&gt;Shocking&lt;/font&gt; nearby &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;This skill leaves behind a ring of &lt;font color='#73f6ff'&gt;Cursed Electrified Steam Clouds&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_ElectricFence_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Target character becomes &lt;font color='#7d71d9'&gt;Evasive&lt;/font&gt;, granting &lt;font color='#7d71d9'&gt;90% Dodging&lt;/font&gt; and &lt;font color='#40b606'&gt;+1 Movement&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_EvasiveManeuver_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Control the forces of nature, removing &lt;font color='#7f3d00'&gt;Petrified&lt;/font&gt;, &lt;font color='#c7a758'&gt;Slowed&lt;/font&gt;, and &lt;font color='#7d71d9'&gt;Stunned&lt;/font&gt; from &lt;font color='#88a25b'&gt;allies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Gain &lt;font color='#dbdbdb'&gt;Stratuswalk Aura&lt;/font&gt;, granting you and nearby &lt;font color='#88a25b'&gt;allies&lt;/font&gt; &lt;font color='#40b606'&gt;+1.5 Movement&lt;/font&gt; as well as the ability to &lt;font color='#dbdbdb'&gt;Float&lt;/font&gt; above ground surfaces." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_FavourableWind_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Winds of Change" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_FavourableWind_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Wind clears the air, dealing [1] to &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; and dousing &lt;font color='#fe6e27'&gt;flames&lt;/font&gt; in target area. &lt;br&gt;&lt;br&gt;Condenses targetted &lt;font color='#dbdbdb'&gt;Cloud Surfaces&lt;/font&gt; in the area, morphing them into &lt;font color='#9a6a46'&gt;Ground Surfaces&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color='#aa3938'&gt;Enemies&lt;/font&gt; also begin &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_PressureSpike_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Pressurise" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_PressureSpike_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Create a &lt;font color='#639594'&gt;Smoke Cloud&lt;/font&gt; around you, lasting 1 turn and hiding you from sight." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_SmokeCover_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Shoot forking sparks at all &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; around you, each dealing [1] and applying &lt;font color='#7d71d9'&gt;Shocked&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color='#b87333'&gt;Conductive&lt;/font&gt;:&lt;br&gt;Hitting a &lt;font color='#b87333'&gt;Conductive&lt;/font&gt; &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; causes this skill to deal [2] to &lt;font color='#aa3938'&gt;non-Conductive enemies&lt;/font&gt; within [3]." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_Superconductor_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="An uncontrollable tornado sweeps the battlefield, applying &lt;font color='#797980'&gt;Suffocating&lt;/font&gt; and &lt;font color='#dbdbdb'&gt;Lost Footing&lt;/font&gt; to &lt;font color='#aa3938'&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;The tornado clears all &lt;font color='#dbdbdb'&gt;Surfaces&lt;/font&gt; in its wake.&lt;br&gt;&lt;br&gt;Removes &lt;font color='#639594'&gt;Invisible&lt;/font&gt;, &lt;font color='#fe6e27'&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#65c900&quot;&gt;Poisoned&lt;/font&gt;, and &lt;font color='#c7a758'&gt;Slowed&lt;/font&gt; from all characters." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Tornado_Air_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Suck the air out of the target, dealing [1]. Also sets &lt;font color=&quot;#cfecff&quot;&gt;Silenced&lt;/font&gt; and &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_VacuumTouch_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Lightning strikes the earth, dealing [1] to &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; in target area. &lt;br&gt;&lt;br&gt;Vaporises &lt;font color='#9a6a46'&gt;Ground Surfaces&lt;/font&gt; into &lt;font color='#dbdbdb'&gt;Cloud Surfaces&lt;/font&gt;, aside from &lt;font color='#7f3d00'&gt;Oil&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Ice&lt;/font&gt;, and &lt;font color=&quot;#fe6e27&quot;&gt;Lava&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color='#b87333'&gt;Conductive&lt;/font&gt;:&lt;br&gt;Hitting a &lt;font color='#b87333'&gt;Conductive&lt;/font&gt; &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; causes this skill to deal [2] to &lt;font color='#aa3938'&gt;non-Conductive enemies&lt;/font&gt; within [3]." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Vaporize_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Vaporise" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Vaporize_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Throw an item or character up high and drop it to the ground, dealing [1]." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Teleportation_FreeFall_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Throw 4 &lt;font color='#81ab00'&gt;explosive traps&lt;/font&gt;, each taking a turn to become active. &lt;br&gt;&lt;br&gt;An active &lt;font color='#81ab00'&gt;trap&lt;/font&gt; will explode when a character approaches it, dealing significant &lt;font color=&quot;#fe6e27&quot;&gt;fire damage&lt;/font&gt; and applying &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;. &lt;br&gt;&lt;br&gt;They are also &lt;font color=&quot;#fe6e27&quot;&gt;Snared&lt;/font&gt; in place for 1 turn." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_DeployMassTraps_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Mass Explosive Traps" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_DeployMassTraps_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] and curse the target.&lt;br&gt;&lt;br&gt;Upon death or after one turn, the character will explode, dealing [2] in a 3m radius, applying &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; to the target and each enemy hit in the area. &lt;br&gt;&lt;br&gt;Upon explosion, they will be &lt;font color=&quot;#c9aa58&quot;&gt;Terrified&lt;/font&gt; for 1 turn.&lt;br&gt;&lt;br&gt;Whenever a fifth stack of &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; is applied to the cursed character they will explode early." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_FlamingCrescendo_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Throw an &lt;font color='#81ab00'&gt;explosive traps&lt;/font&gt;, taking a turn to become active. &lt;br&gt;&lt;br&gt;An active &lt;font color='#81ab00'&gt;trap&lt;/font&gt; will explode when a character approaches it, dealing significant &lt;font color=&quot;#fe6e27&quot;&gt;fire damage&lt;/font&gt; and applying &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;. &lt;br&gt;&lt;br&gt;They are also &lt;font color=&quot;#fe6e27&quot;&gt;Snared&lt;/font&gt; in place for 1 turn." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_LaunchExplosiveTrap_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Explosive Trap" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_LaunchExplosiveTrap_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Command 5 large fireballs, each dealing [1], applying &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, and creating a large &lt;font color=&quot;#fe6e27&quot;&gt;fire surface&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Each fireball has a &lt;font color='#fcd203'&gt;40% chance&lt;/font&gt; to increment &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color='#aa3938'&gt;Enemies&lt;/font&gt; are also afflicted by &lt;font color=&quot;#fe6e27&quot;&gt;Smolder&lt;/font&gt;, reducing &lt;font color=&quot;#c9aa58&quot;&gt;damage output&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistances&lt;/font&gt; for 2 turns." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_OdinPyro_Inferno_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] and apply two stacks of &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; to the target and &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt; within 3m. &lt;br&gt;&lt;br&gt;The target gains &lt;font color=&quot;#fe6e27&quot;&gt;Smolder Aura&lt;/font&gt;, reducing &lt;font color=&quot;#c9aa58&quot;&gt;damage output&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistances&lt;/font&gt; of nearby &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt; for 2 turns. &lt;br&gt;&lt;br&gt;Then, if the target(s) has &lt;font color=&quot;#fe6e27&quot;&gt;five stacks of Scorch&lt;/font&gt;, they become afflicted with &lt;font color=&quot;#c92d01&quot;&gt;Necrofire&lt;/font&gt; for 2 turns." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinPyro_Inflame_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Infuse target &lt;font color='#88a25b'&gt;ally&lt;/font&gt; or &lt;font color='#aa3938'&gt;enemy&lt;/font&gt; with ash. &lt;br&gt;&lt;br&gt;If the target is an &lt;font color=&quot;#aa3938&quot;&gt;enemy&lt;/font&gt;, the ashes deal [1], and apply &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt;. The ashes also apply &lt;font color=&quot;#fe6e27&quot;&gt;Phoenixian Fury&lt;/font&gt; for 2 turns, causing them to explode for [2] upon death. &lt;br&gt;&lt;br&gt;If the target is an &lt;font color=&quot;#88a25b&quot;&gt;ally&lt;/font&gt;, the ashes will grant &lt;font color=&quot;#97fbff &quot;&gt;Phoenixian Revival&lt;/font&gt; for 2 turns, causing them to resurrect at &lt;font color=&quot;#97fbff &quot;&gt;25% Vitality&lt;/font&gt; upon death." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinPyro_PhoenixianAshes_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Spray mystical flames, cleansing &lt;font color='#dbdbdb'&gt;surfaces&lt;/font&gt;.&lt;br&gt;&lt;br&gt;If the flames contact an &lt;font color='#aa3938'&gt;enemy&lt;/font&gt;, the flames remove &lt;font color='#4197e2'&gt;Wet&lt;/font&gt;, &lt;font color='#4197e2'&gt;Chilled&lt;/font&gt;,  &lt;font color='#4197e2'&gt;Frozen&lt;/font&gt;,  and &lt;font color='#639594'&gt;Invisible&lt;/font&gt;. Additionally, the flames will apply a stack of &lt;font color='#fe6e27'&gt;Scorch&lt;/font&gt; and also apply &lt;font color='#fe6e27'&gt;Necrofire&lt;/font&gt;.  &lt;br&gt;&lt;br&gt;If the flames contact an &lt;font color=&quot;#88a25b&quot;&gt;ally&lt;/font&gt;, the flames will instead cleanse &lt;font color=&quot;#fe6e27&quot;&gt;Necrofire&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#4197e2&quot;&gt;Frozen&lt;/font&gt;, &lt;font color=&quot;#7d71d9&quot;&gt;Stunned&lt;/font&gt;, &lt;font color=&quot;#ffb8b8 &quot;&gt;Charmed&lt;/font&gt;, and &lt;font color=&quot;#7f3d00 &quot;&gt;Petrified&lt;/font&gt;. &lt;font color=&quot;#88a25b&quot;&gt;Allies&lt;/font&gt; become &lt;font color=&quot;#fe6e27&quot;&gt;Warm&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Cone_OdinPyro_PurifyingFire_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Command enchanted flames towards the target.&lt;br&gt;&lt;br&gt;If the target is an &lt;font color=&quot;#aa3938&quot;&gt;enemy&lt;/font&gt;, the flames deal [1], and apply a stack of &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt;. They are also &lt;font color=&quot;#fe6e27&quot;&gt;Smoldered&lt;/font&gt;, reducing &lt;font color=&quot;#c9aa58&quot;&gt;Damage output&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistances&lt;/font&gt; for 2 turns. &lt;br&gt;&lt;br&gt;If the target is an &lt;font color=&quot;#88a25b&quot;&gt;ally&lt;/font&gt;, the flames will instead grant &lt;font color=&quot;#97fbff &quot;&gt;Cauterize&lt;/font&gt; for 2 turns, healing for &lt;font color=&quot;#97fbff &quot;&gt;20% of the target's maximum vitality&lt;/font&gt; on apply and each turn. The &lt;font color=&quot;#88a25b&quot;&gt;ally&lt;/font&gt; will also be granted &lt;font color=&quot;#fe6e27&quot;&gt;Fire Immunity&lt;/font&gt; for 1 turn." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinPyro_PhoenixFire_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Target character gains &lt;font color='#dbdbdb'&gt;Clear-Minded&lt;/font&gt;, granting &lt;font color='#40b606'&gt;[1] Finesse&lt;/font&gt;, &lt;font color='#40b606'&gt;Resolve&lt;/font&gt;, and &lt;font color='#40b606'&gt;Wisdom&lt;/font&gt;. Also provides &lt;font color='#40b606'&gt;+[3]% Accuracy&lt;/font&gt;, &lt;font color='#40b606'&gt;[2]% Critical Chance&lt;/font&gt; and &lt;font color='#40b606'&gt;[4] Initiative&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Also cleanses and prevents &lt;font color='#639594'&gt;Blinded&lt;/font&gt;, &lt;font color='#c9aa58'&gt;Terrified&lt;/font&gt;, &lt;font color='#ffb8b8'&gt;Charmed&lt;/font&gt;, &lt;font color='#c80030'&gt;Taunted&lt;/font&gt;, &lt;font color='#7d71d9'&gt;Sleeping&lt;/font&gt;, &lt;font color='#c80030'&gt;Enraged&lt;/font&gt;, and &lt;font color='#c9aa58'&gt;Madness&lt;/font&gt; effects." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_BurnMyEyes_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Target either a &lt;font color='#797980'&gt;corpse&lt;/font&gt; or an &lt;font color=&quot;#aa3938&quot;&gt;enemy&lt;/font&gt; with &lt;font color=&quot;#fe6e27&quot;&gt;3 or more&lt;/font&gt; stacks of &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt;. &lt;br&gt;&lt;br&gt;If the target is a &lt;font color='#797980'&gt;corpse&lt;/font&gt;, this skill deals [2] to nearby enemies and explodes the body. &lt;br&gt;&lt;br&gt;If the target is an &lt;font color=&quot;#aa3938&quot;&gt;alive enemy&lt;/font&gt;, this skill deals [1]. &lt;br&gt;&lt;br&gt;This skill applies &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; and &lt;font color=&quot;#c92d01&quot;&gt;Necrofire&lt;/font&gt; for 2 turns in both instances." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_CorpseExplosion_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Condemning Explosion" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_CorpseExplosion_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Ignite your inner-spark, adding [1] to your weapon attacks. &lt;br&gt;&lt;br&gt;Basic attacks will &lt;font color=&quot;#fe6e27&quot;&gt;Warm&lt;/font&gt; characters for 1 turn if they are not already &lt;font color=&quot;#fe6e27&quot;&gt;Warm&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_FireBrand_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Whip the target, dealing [1] damage and leaving the target &lt;font color='#639594'&gt;Blinded&lt;/font&gt;, &lt;font color=&quot;#fe6e27&quot;&gt;Scorched&lt;/font&gt;, and &lt;font color=&quot;#fe6e27&quot;&gt;Burned&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_FireWhip_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Hurl a fiery sphere, dealing [1] and applying &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; to all &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_Fireball_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="&lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; the target and nearby &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;The target gains &lt;font color=&quot;#fe6e27&quot;&gt;Fireblood&lt;/font&gt;, reducing &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistance&lt;/font&gt; by &lt;font color=&quot;#c80030&quot;&gt;20%&lt;/font&gt; and causes them to bleed &lt;font color=&quot;#fe6e27&quot;&gt;fire surfaces&lt;/font&gt; when hit." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Fireblood_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] to nearby &lt;font color='#aa3938'&gt;enemies&lt;/font&gt; and gain &lt;font color=&quot;#fe6e27&quot;&gt;Exquisite Firecraft&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#88a25b&quot;&gt;Allies&lt;/font&gt; within 4m gain &lt;font color=&quot;#fe6e27&quot;&gt;Blazing&lt;/font&gt;, providing &lt;font color=&quot;#fe6e27&quot;&gt;[2]% Fire Resistance&lt;/font&gt; at the cost of &lt;font color=&quot;#4197e2&quot;&gt;[3]% Water Resistance&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_FlamingTongues_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Exquisite Firecraft" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_FlamingTongues_DisplayName" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Send a &lt;font color=&quot;#c92d01&quot;&gt;cursed flame&lt;/font&gt; that will split on impact up to [1] times, dealing [2] and &lt;font color=&quot;#fe6e27&quot;&gt;Scorching&lt;/font&gt; hit &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Leaves a &lt;font color=&quot;#c92d01&quot;&gt;Necrofire surface&lt;/font&gt; behind." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_InfectiousFlame_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Command a beam of intense heat in target direction, dealing [1] to all characters and spawning &lt;font color=&quot;#c92d01&quot;&gt;fire clouds&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemies&lt;/font&gt; hit by the ray are &lt;font color=&quot;#fe6e27&quot;&gt;Scorched&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Zone_LaserRay_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Command a beam of intense heat in target direction, dealing [1] to all characters and spawning &lt;font color=&quot;#c92d01&quot;&gt;fire clouds&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemies&lt;/font&gt; hit by the ray are &lt;font color=&quot;#fe6e27&quot;&gt;Scorched&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Zone_OdinPyro_SummonSkill_LaserRay_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Flicker an ember at target &lt;font color=&quot;#aa3938&quot;&gt;enemy&lt;/font&gt;, dealing [1], &lt;font color=&quot;#fe6e27&quot;&gt;Scorching&lt;/font&gt;, and &lt;font color='#639594'&gt;Blinding&lt;/font&gt; them. &lt;br&gt;&lt;br&gt;If the &lt;font color=&quot;#aa3938&quot;&gt;enemy&lt;/font&gt; is carrying &lt;font color='#81ab00'&gt;grenades&lt;/font&gt; or &lt;font color='#81ab00'&gt;arrows&lt;/font&gt;, one &lt;font color='#c80030'&gt;explodes&lt;/font&gt; at random in their inventory." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_Sabotage_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Applies &lt;font color=&quot;#fe6e27&quot;&gt;Sparkstriker&lt;/font&gt; to the caster, causing melee attacks to create a spark projectile which bounces off the initial target to hit the closest enemy. &lt;br&gt;&lt;br&gt;This buff is overwritten by &lt;font color=&quot;#fe6e27&quot;&gt;Sparkmaster&lt;/font&gt;, and you cannot have both at the same time." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_SparkingSwings_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] and &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; target &lt;font color=&quot;#aa3938&quot;&gt;enemy&lt;/font&gt;. Cleanse all instances of &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Necrofire&lt;/font&gt;, dealing damage based on the number turns left on each. &lt;br&gt;&lt;br&gt;Then, expunge all stacks of &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt;, dealing damage based on the number of stacks removed this way: &lt;br&gt;&lt;br&gt;1 stack: [2] &lt;br&gt;2 stacks: [3] &lt;br&gt;3 stacks: [4] &lt;br&gt;4 stacks: [5] &lt;br&gt;5 stacks: [6]" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_SpontaneousCombustion_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] to yourself and all other characters in an area around you. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#fe6e27&quot;&gt;Supernova&lt;/font&gt; also &lt;font color=&quot;#fe6e27&quot;&gt;Scorches&lt;/font&gt; characters and leaves a &lt;font color=&quot;#fe6e27&quot;&gt;fire surface&lt;/font&gt; behind." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_Supernova_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] to yourself and all other characters in an area around you. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#fe6e27&quot;&gt;Supernova&lt;/font&gt; also &lt;font color=&quot;#fe6e27&quot;&gt;Scorches&lt;/font&gt; characters and leaves a &lt;font color=&quot;#fe6e27&quot;&gt;fire surface&lt;/font&gt; behind." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinPyro_SummonSkill_Supernova_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Fabricate an &lt;font color=&quot;#cfecff&quot;&gt;Ice Elemental&lt;/font&gt; at target location. The &lt;font color=&quot;#cfecff&quot;&gt;Elemental&lt;/font&gt; lasts 5 turns and is a bulky support. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color=&quot;#cfecff&quot;&gt;Elemental&lt;/font&gt; increases in size and gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Summon_OdinWater_ConjureIceElemental_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Spawn a &lt;font color=&quot;#fe6e27&quot;&gt;Fire Slug&lt;/font&gt; at target location. The &lt;font color=&quot;#fe6e27&quot;&gt;Slug&lt;/font&gt; lasts 5 turns and specialises in &lt;font color=&quot;#fe6e27&quot;&gt;fire surfaces&lt;/font&gt; and ranged artillery. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color=&quot;#fe6e27&quot;&gt;Slug&lt;/font&gt; increases in size and gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Summon_FireSlug_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Fabricate a &lt;font color=&quot;#fe6e27&quot;&gt;Flame Elemental&lt;/font&gt; at target location. The &lt;font color=&quot;#fe6e27&quot;&gt;Elemental&lt;/font&gt; lasts 5 turns and specialises in bulky close-quarters combat. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color=&quot;#fe6e27&quot;&gt;Elemental&lt;/font&gt; increases in size and gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Summon_OdinPyro_ConjureFlameElemental_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Fabricate a &lt;font color='#65C900'&gt;Poison Elemental&lt;/font&gt; at target location. The &lt;font color=&quot;#65C900&quot;&gt;Elemental&lt;/font&gt; lasts 5 turns and is a mid-range caster. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color=&quot;#65C900&quot;&gt;Elemental&lt;/font&gt; increases in size and gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Summon_ArtilleryPlant_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Fabricate a &lt;font color='#7f3d00'&gt;Earth Elemental&lt;/font&gt; at target location. The &lt;font color=&quot;#7f3d00&quot;&gt;Elemental&lt;/font&gt; lasts 5 turns and is a bulky brute. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color=&quot;#7f3d00&quot;&gt;Elemental&lt;/font&gt; increases in size and gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Summon_OdinGEO_ConjureEarthElemental_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Fabricate a &lt;font color='#7d71d9'&gt;Wind Elemental&lt;/font&gt; at target location. The &lt;font color=&quot;#7d71d9&quot;&gt;Elemental&lt;/font&gt; lasts 5 turns and is a ranged caster. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color=&quot;#7d71d9&quot;&gt;Elemental&lt;/font&gt; increases in size and gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Summon_OdinAERO_ConjureWindElemental_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Raise target &lt;font color='#797980'&gt;intact corpse&lt;/font&gt; as a &lt;font color='#B823CB'&gt;Bone Golem&lt;/font&gt;. The &lt;font color='#B823CB'&gt;Bone Golem&lt;/font&gt; lasts 5 turns and is a durable brute who can unearth &lt;font color='#797980'&gt;corpses&lt;/font&gt;. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color='#B823CB'&gt;Bone Golem&lt;/font&gt; gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinNECRO_Raise_BoneGolem_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Raise target &lt;font color='#797980'&gt;intact corpse&lt;/font&gt; as a &lt;font color='#B823CB'&gt;Bloated Corpse&lt;/font&gt;. The &lt;font color='#B823CB'&gt;Bloated Corpse&lt;/font&gt; lasts 5 turns and is deceptively volatile. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color='#B823CB'&gt;Bloated Corpse&lt;/font&gt; increases in size, gains additional stats, and explodes in a larger radius." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_BloatedCorpse_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Raise target &lt;font color='#797980'&gt;intact corpse&lt;/font&gt; as a &lt;font color='#B823CB'&gt;Bone Widow&lt;/font&gt;. The &lt;font color='#B823CB'&gt;Bone Widow&lt;/font&gt; lasts 5 turns and is a bulky hard-hitter despite being susceptible to magic attacks. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color='#B823CB'&gt;Bone Widow&lt;/font&gt; increases in size and gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinNECRO_Raise_BoneWidow_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Raise target &lt;font color='#797980'&gt;intact corpse&lt;/font&gt; as an &lt;font color='#B823CB'&gt;Undead Warrior&lt;/font&gt;. The &lt;font color='#B823CB'&gt;Undead Warrior&lt;/font&gt; lasts 5 turns and is a close-quarters bruiser. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color='#B823CB'&gt;Undead Warrior&lt;/font&gt; gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinNECRO_Raise_UndeadWarrior_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Raise target &lt;font color='#797980'&gt;intact corpse&lt;/font&gt; as an &lt;font color='#B823CB'&gt;Undead Elementalist&lt;/font&gt;. The &lt;font color='#B823CB'&gt;Undead Elementalist&lt;/font&gt; lasts 5 turns and is a versatile mage. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color='#B823CB'&gt;Undead Elementalist&lt;/font&gt; gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinNECRO_Raise_UndeadMage_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Raise target &lt;font color='#797980'&gt;intact corpse&lt;/font&gt; as an &lt;font color='#B823CB'&gt;Undead Assassin&lt;/font&gt;. The &lt;font color='#B823CB'&gt;Undead Assassin&lt;/font&gt; lasts 5 turns and is a cunning and deadly executioner. &lt;br&gt;&lt;br&gt;At &lt;font color=&quot;#7f25d4&quot;&gt;5 Summoning&lt;/font&gt;, the &lt;font color='#B823CB'&gt;Undead Assassin&lt;/font&gt; gains additional stats." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinNECRO_Raise_UndeadAssassin_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Manifest your lifeforce into a volatile projectile, bouncing between characters. &lt;br&gt;&lt;br&gt;Allies are forced to become &lt;font color=&quot;#67ffdd&quot;&gt;Mordant&lt;/font&gt; for 2 turns, gaining &lt;font color=&quot;#40b606&quot;&gt;[1] Strength&lt;/font&gt; and &lt;font color=&quot;#40b606&quot;&gt;[3] AP Recovery&lt;/font&gt; at the cost of &lt;font color=&quot;#c80030&quot;&gt;[2] Elemental Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Enemies are afflicted with a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; and &lt;font color=&quot;#67ffdd&quot;&gt;Perish&lt;/font&gt; for 2 turns, causing reduced &lt;font color=&quot;#c80030&quot;&gt;Constitution&lt;/font&gt;, &lt;font color=&quot;#c80030&quot;&gt;Resolve&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;[4]% Physical Resistance&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Projectile_OdinSpectre_RiteOfTheLich_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] and apply a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to the target. Then if the target has three or more stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, they begin to &lt;font color=&quot;#67ffdd&quot;&gt;Perish&lt;/font&gt;, causing &lt;font color=&quot;#c80030&quot;&gt;[2] Constitution&lt;/font&gt;, &lt;font color=&quot;#c80030&quot;&gt;[3] Resolve&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;[4]% Physical Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;Perish&lt;/font&gt;'s duration is determined by the number of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; stacks on the target: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;3 stacks&lt;/font&gt;: &lt;font color=&quot;#c9aa58&quot;&gt;1 turn&lt;/font&gt; &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;4 stacks&lt;/font&gt;: &lt;font color=&quot;#c9aa58&quot;&gt;2 turns&lt;/font&gt; &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;5 stacks&lt;/font&gt;: &lt;font color=&quot;#c9aa58&quot;&gt;3 turns&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinSpectre_CruelIntent_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Deal [1] to the target and they will become &lt;font color=&quot;c9aa58&quot;&gt;Terrified&lt;/font&gt;, causing them to run around in fear for 1 turn. &lt;br&gt;&lt;br&gt;Removes all stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; from the target. Then, the target is afflicted with a random number of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; stacks, dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;1 stack&lt;/font&gt;: [2] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;2 stacks&lt;/font&gt;: [3] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;3 stacks&lt;/font&gt;: [4] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;4 stacks&lt;/font&gt;: [5] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;5 stacks&lt;/font&gt;: [6]" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_OdinSpectre_TerribleFate_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Morph your resistances into raw power, gaining &lt;font color=&quot;#40b606&quot;&gt;[1] Strength&lt;/font&gt; and &lt;font color=&quot;#40b606&quot;&gt;[3] AP Recovery&lt;/font&gt; at the cost of &lt;font color=&quot;#c80030&quot;&gt;[2]% Elemental Resistance&lt;/font&gt;." type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_OdinSpectre_UnholyRitual_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Identify a target, marking them for death. &lt;br&gt;&lt;br&gt;If the target is eliminated, you gain &lt;font color='#40b606'&gt;1 AP&lt;/font&gt;, &lt;font color=&quot;#55b82d&quot;&gt;1 Willpower&lt;/font&gt;, &lt;font color='#40b606'&gt;[1]% Damage&lt;/font&gt;, and &lt;font color='#a8a8a8'&gt;[2]% Physical Resistance&lt;/font&gt; for 1 turn. &lt;br&gt;&lt;br&gt;Should the target survive, they will gain these bonuses instead, and you take [3]. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#c80030'&gt;Challenge of the Shade&lt;/font&gt;, a &lt;font color='#c80030'&gt;Chaos&lt;/font&gt; version of this skill.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_SHADEChallengeBlade_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Identify a target, marking them for death. &lt;br&gt;&lt;br&gt;If the target is eliminated, you gain &lt;font color='#40b606'&gt;1 AP&lt;/font&gt;, &lt;font color=&quot;#55b82d&quot;&gt;1 Willpower&lt;/font&gt;, &lt;font color='#40b606'&gt;[1]% Damage&lt;/font&gt;, &lt;font color='#c80030'&gt;[2]% Elemental Resistance&lt;/font&gt; for 1 turn. &lt;br&gt;&lt;br&gt;Should the target survive, they will gain these bonuses instead, and you take [3]. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#A8A8A8'&gt;Challenge of the Blade&lt;/font&gt;, an &lt;font color='#A8A8A8'&gt;Order&lt;/font&gt; version of this skill.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_SHADEChallengeShade_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Identify a target, marking them for death. &lt;br&gt;&lt;br&gt;If the target is eliminated, you gain &lt;font color='#40b606'&gt;1 AP&lt;/font&gt;, &lt;font color=&quot;#55b82d&quot;&gt;1 Willpower&lt;/font&gt;, &lt;font color='#40b606'&gt;[1]% Damage&lt;/font&gt;, &lt;font color='#c80030'&gt;[2]% Elemental Resistance&lt;/font&gt; for 1 turn. &lt;br&gt;&lt;br&gt;Should the target survive, they will gain these bonuses instead, and you take [3]. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#A8A8A8'&gt;Challenge of the Blade&lt;/font&gt;, an &lt;font color='#A8A8A8'&gt;Order&lt;/font&gt; version of this skill.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Target_SHADEChallengeBladeDummy_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Gain &lt;font color=&quot;#40b606&quot;&gt;15% Damage&lt;/font&gt; and &lt;font color=&quot;#40b606&quot;&gt;50% Movement Speed&lt;/font&gt; for 1 turn. Become &lt;font color='#639594'&gt;Invisible&lt;/font&gt; until the end of the current turn.  &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#c80030'&gt;Retreat Into Shadow&lt;/font&gt;, a &lt;font color='#c80030'&gt;Chaos&lt;/font&gt; skill which restores a portion health and willpower.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_SHADEPreemptiveTactics_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Restore &lt;font color=&quot;#97fbff&quot;&gt;20% of your max. Vitality&lt;/font&gt; and &lt;font color=&quot;#55b82d&quot;&gt;1 Willpower&lt;/font&gt;. Become &lt;font color='#639594'&gt;Invisible&lt;/font&gt; until the end of the current turn. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#A8A8A8'&gt;Preemptive Tactics&lt;/font&gt;, an &lt;font color='#A8A8A8'&gt;Order&lt;/font&gt; skill which bestows a damage and movement boost.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_SHADERetreatIntoShadow_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Gain &lt;font color=&quot;#40b606&quot;&gt;15% Damage&lt;/font&gt; and &lt;font color=&quot;#40b606&quot;&gt;50% Movement Speed&lt;/font&gt; for 1 turn. Become &lt;font color='#639594'&gt;Invisible&lt;/font&gt; until the end of the current turn.  &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#c80030'&gt;Retreat Into Shadow&lt;/font&gt;, a &lt;font color='#c80030'&gt;Chaos&lt;/font&gt; skill which restores a portion health and willpower.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Shout_SHADEPreemptiveTacticsDummy_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Leap without breaking &lt;font color=&quot;#639594&quot;&gt;Invisibility&lt;/font&gt;. If used whilst &lt;font color=&quot;#639594&quot;&gt;Invisible&lt;/font&gt;, the cost is refunded and you gain &lt;font color=&quot;#a8a8a8&quot;&gt;[1]% Physical Resistance&lt;/font&gt;. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#c80030'&gt;Dark Passage&lt;/font&gt;, a &lt;font color='#c80030'&gt;Chaos&lt;/font&gt; version of this skill.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Jump_SHADEVeiledAssault_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Leap without breaking &lt;font color=&quot;#639594&quot;&gt;Invisibility&lt;/font&gt;. If used whilst &lt;font color=&quot;#639594&quot;&gt;Invisible&lt;/font&gt;, the cost is refunded and you gain &lt;font color='#c80030'&gt;[1]% Elemental Resistance&lt;/font&gt;. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#a8a8a8'&gt;Nimble Leap&lt;/font&gt;, an &lt;font color='#a8a8a8'&gt;Order&lt;/font&gt; version of this skill.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Jump_SHADEDarkRaid_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Leap without breaking &lt;font color=&quot;#639594&quot;&gt;Invisibility&lt;/font&gt;. If used whilst &lt;font color=&quot;#639594&quot;&gt;Invisible&lt;/font&gt;, the cost is refunded and you gain &lt;font color=&quot;#a8a8a8&quot;&gt;[1]% Physical Resistance&lt;/font&gt;. &lt;font size='16'&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color='#ff00a8'&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color='#c80030'&gt;Dark Passage&lt;/font&gt;, a &lt;font color='#c80030'&gt;Chaos&lt;/font&gt; version of this skill.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Jump_SHADEDummyVeiledAssault_Description" type="22" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" value="Shattered Armour" type="28" handle="ls::TranslatedStringRepository::s_HandleUnknown" />
+					<attribute id="ExtraData" value="" type="23" />
+					<attribute id="Speaker" value="" type="22" />
+					<attribute id="Stub" value="True" type="19" />
+					<attribute id="UUID" value="Stats_ZZZ_Post_ReactiveArmor" type="22" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
