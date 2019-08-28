@@ -45,7 +45,7 @@ story.debugInfo
 *.tga
 *.png
 *.ttf
-*.lsb
+#*.lsb
 *.lsf
 *.lsfx
 *.lsefx
