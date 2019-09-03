@@ -4,7 +4,7 @@ INITSECTION
 
 KBSECTION
 IF
-	CharacterStatusAttempt(_Target, "ZZZ_PETRIFIED", _Source)
+	CharacterStatusAttempt(_Target, "ZZZ_ROCKVOLLEY_PETRIFIED", _Source)
 AND
 	DB_RockVolleyTarget(_Target, 2, _Source)
 THEN
@@ -13,7 +13,7 @@ THEN
 	ApplyStatus(_Target, "PETRIFIED", 6.0, 1, _Source);
 
 IF
-	CharacterStatusAttempt(_Target, "ZZZ_PETRIFIED", _Source)
+	CharacterStatusAttempt(_Target, "ZZZ_ROCKVOLLEY_PETRIFIED", _Source)
 AND
 	DB_RockVolleyTarget(_Target, 1, _Source)
 THEN
@@ -21,7 +21,7 @@ THEN
 	DB_RockVolleyTarget(_Target, 2, _Source);
 
 IF
-	CharacterStatusAttempt(_Target, "ZZZ_PETRIFIED", _Source)
+	CharacterStatusAttempt(_Target, "ZZZ_ROCKVOLLEY_PETRIFIED", _Source)
 AND
 	NOT DB_RockVolleyTarget(_Target, _, _Source)
 THEN
