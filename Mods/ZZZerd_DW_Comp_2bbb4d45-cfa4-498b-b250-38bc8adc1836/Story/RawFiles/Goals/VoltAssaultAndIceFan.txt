@@ -1,0 +1,40 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+	CharacterStatusAttempt(_Target, "ZZZ_VOLTASSAULT_SHOCKED", _Source)
+AND
+	NOT DB_VoltAssaultTarget(_Target, _Source)
+THEN
+	DB_VoltAssaultTarget(_Target, _Source);
+	ApplyStatus(_Target, "SHOCKED", 6.0, 1, _Source);
+	ProcObjectTimer(_Target, "ZZZ_VoltAssaultApplied", 1000);
+
+PROC
+	ProcObjectTimerFinished((CHARACTERGUID)_Target, "ZZZ_VoltAssaultApplied")
+AND
+	DB_VoltAssaultTarget(_Target, _Source)
+THEN
+	NOT DB_VoltAssaultTarget(_Target, _Source);
+
+IF
+	CharacterStatusAttempt(_Target, "ZZZ_ICEFAN_CHILLED", _Source)
+AND
+	NOT DB_IceFanTarget(_Target, _Source)
+THEN
+	DB_IceFanTarget(_Target, _Source);
+	ApplyStatus(_Target, "CHILLED", 6.0, 1, _Source);
+	ProcObjectTimer(_Target, "ZZZ_IceFanApplied", 1000);
+
+PROC
+	ProcObjectTimerFinished((CHARACTERGUID)_Target, "ZZZ_IceFanApplied")
+AND
+	DB_IceFanTarget(_Target, _Source)
+THEN
+	NOT DB_IceFanTarget(_Target, _Source);
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"
